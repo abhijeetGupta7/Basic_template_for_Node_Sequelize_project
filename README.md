@@ -1,10 +1,10 @@
-```markdown
+```
 # Node.js Project Template
 
 This is a base Node.js project template, which anyone can use as it has been prepared, by keeping some of the most important code principles and project management recommendations in mind. 
 ## Project Structure
 
-```plaintext
+```
 src/
   ├── config/
   ├── routes/
@@ -94,6 +94,5 @@ The `utils` folder contains helper methods, error classes, etc.
     npm run dev
     ```
 
-```
 
 
