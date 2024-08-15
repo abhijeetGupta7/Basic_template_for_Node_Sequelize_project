@@ -1,5 +1,3 @@
-Here’s the content formatted properly for a `README.md` file:
-
 ```markdown
 # Node.js Project Template
 
