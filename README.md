@@ -98,6 +98,3 @@ The `utils` folder contains helper methods, error classes, etc.
 ---
 
 Feel free to contribute to this template and make it even better!
-```
-
-This format should be appropriate for a `README.md` file and will help guide anyone through the process of using and setting up your Node.js project template.
