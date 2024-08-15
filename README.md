@@ -1,10 +1,13 @@
-```
+Here’s the content formatted properly for a `README.md` file:
+
+```markdown
 # Node.js Project Template
 
-This is a base Node.js project template, which anyone can use as it has been prepared, by keeping some of the most important code principles and project management recommendations in mind. 
+This is a base Node.js project template, which anyone can use as it has been prepared, by keeping some of the most important code principles and project management recommendations in mind. Feel free to change anything as needed.
+
 ## Project Structure
 
-```
+```plaintext
 src/
   ├── config/
   ├── routes/
@@ -94,5 +97,9 @@ The `utils` folder contains helper methods, error classes, etc.
     npm run dev
     ```
 
+---
 
+Feel free to contribute to this template and make it even better!
+```
 
+This format should be appropriate for a `README.md` file and will help guide anyone through the process of using and setting up your Node.js project template.
